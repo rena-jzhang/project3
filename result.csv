@@ -1,0 +1,23 @@
+hlang,lang,init,refine,acc per fact,new metric
+en,el,all,confidence,4.2,5.152
+en,jp,all,confidence,3.27,5.6
+en,nl,all,confidence,9.75,21.14
+none,el,all,confidence,2.76,4.133
+none,en,all,confidence,10.74,20.499
+none,jp,all,confidence,0.86,2.187
+none,nl,all,confidence,9.58,15.561
+none,zh,all,confidence,3.16,6.645
+zh,el,all,confidence,3.98,5.804
+zh,jp,all,confidence,1.24,4.658
+zh,nl,all,confidence,11.09,18.083
+en,el,all,none,3.91,4.708
+en,jp,all,none,3.07,4.642
+en,nl,all,none,9.64,20.804
+none,el,all,none,2.64,4.686
+none,en,all,none,10.88,20.632
+none,jp,all,none,0.57,1.658
+none,nl,all,none,9.77,15.715
+none,zh,all,none,2.01,4.98
+zh,el,all,none,3.6,5.004
+zh,jp,all,none,1.41,4.42
+zh,nl,all,none,11.45,18.505
